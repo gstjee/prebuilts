@@ -32,7 +32,5 @@
   <project path="prebuilts/misc" name="platform/prebuilts/misc" groups="pdk,sysui-studio" clone-depth="1" remote="aosp" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools,sysui-studio" clone-depth="1" remote="aosp" />
 
-
   <include name="snippets/lineage.xml" />
-  <include name="snippets/pixel.xml" />
 </manifest>
